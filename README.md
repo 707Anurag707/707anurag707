@@ -6,6 +6,14 @@ Welcome to my GitHub profile! I'm Anurag, a Data Science enthusiast with a passi
 
 ---
 
+### 🎓 Education
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 ![GitHub Streak](https://demolab.com)
 
@@ -38,4 +46,5 @@ Welcome to my GitHub profile! I'm Anurag, a Data Science enthusiast with a passi
 ![Pandas](https://shields.io)
 ![Plotly](https://shields.io)
 ![Scikit Learn](https://shields.io)
+
 
