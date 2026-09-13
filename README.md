@@ -1,53 +1,41 @@
 # Hey! I am Anurag Kumar Yadav 👋
 
-### Data Analyst | Data Scientist |
+### Data Analyst | Data Scientist
 
 Welcome to my GitHub profile! I'm Anurag, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
-</p>
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+![GitHub Streak](https://demolab.com)
+
+![GitHub Stats](https://vercel.app)
 
 ---
 
 ### 🚀 Top Repositories
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="AI Jobs Salary Analysis Card">
-  </a>
-</p>
+[![AI Jobs Salary Analysis Card](https://vercel.app)](https://github.com)
 
 ---
 
 ### 💻 IDE
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Python](https://shields.io)
+![Colab](https://shields.io)
+![VSCode](https://shields.io)
 
 ---
 
 ### 🛠️ Skills
 
 #### 🗣️ Languages
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Markdown](https://shields.io)
 
 #### 📚 Libraries
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Jupyter](https://shields.io)
+![Numpy](https://shields.io)
+![Pandas](https://shields.io)
+![Plotly](https://shields.io)
+![Scikit Learn](https://shields.io)
+
